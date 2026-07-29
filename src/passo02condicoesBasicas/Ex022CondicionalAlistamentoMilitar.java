@@ -31,9 +31,5 @@ public class Ex022CondicionalAlistamentoMilitar {
         }
 
 
-
-
-
-
     }
 }
