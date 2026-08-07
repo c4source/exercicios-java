@@ -2,7 +2,7 @@ package passo03condicoesCompostas;
 
 import java.util.Scanner;
 
-public class Ex33AprovarEmprestimo {
+public class Ex033AprovarEmprestimo {
     public static void main(String[] args) {
 
         /*
